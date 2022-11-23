@@ -16,6 +16,9 @@
   "[typescriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   //ファイル保存時に自動的にフォーマットする
   "editor.formatOnSave": true,
   //デフォルトのCSSのLintを止めて、StylelintによるLintを行うための設定
