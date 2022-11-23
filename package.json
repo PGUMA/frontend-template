@@ -1,0 +1,15 @@
+{
+  "name": "frontend-template",
+  "scripts": {
+    "run-script": "ts-node src/main.ts"
+  },
+  "version": "1.0.0",
+  "author": "pguma <p.guma.info+dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
